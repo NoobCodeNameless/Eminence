@@ -98,7 +98,16 @@ Enkidu/
 
 ## 📖 Citation
 
-Soon
+If you find this work useful, please cite our paper:
+
+```bibtex
+@article{feng2025eminence,
+  title={The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks},
+  author={Feng, Zhou and Chen, Jiahao and Zhou, Chunyi and Pu, Yuwen and Du, Tianyu and Li, Jinbao and Chen, Jianhai and Ji, Shouling},
+  journal={arXiv preprint arXiv:2512.10402},
+  year={2025}
+}
+```
 
 ## Acknowledgements
 
